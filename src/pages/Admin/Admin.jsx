@@ -14,6 +14,10 @@ const Admin = () => {
                         <div className="cotegor-price">
                             <input type="text" />
                             <input type="text" />
+                            <h1>muraskot</h1>
+                            <h1>Muraskoooot</h1>
+                            <h1>Muraskoooot</h1>
+                            <h1>Muraskoooot</h1>
                         </div>
                         <textarea name="" id="" cols="30" rows="10"></textarea>
                         <button>SAVE</button>
