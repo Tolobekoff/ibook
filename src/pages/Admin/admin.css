@@ -1,0 +1,12 @@
+.create {
+    display: flex;
+    justify-content: space-around;
+}
+.input__wrapper{
+    width: 400px;
+    height: 300px;
+    background-color: rgba(128, 128, 128, 0.151);
+}
+.input__file{
+    margin-top: 30px;
+}
